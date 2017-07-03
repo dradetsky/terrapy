@@ -1,0 +1,4 @@
+.terraform
+nextplan
+*.tf
+*tf.py.tf.json
