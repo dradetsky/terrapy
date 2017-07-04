@@ -38,6 +38,7 @@ def run_intercept_cmd(mod_args):
 
 
 def main():
+    sys.path.append(os.getcwd())
     args = sys.argv[1:]
     is_intercept, mod_args = get_intercept(args)
     if is_intercept:
