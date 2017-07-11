@@ -5,7 +5,7 @@ REQUIRES = (
 )
 
 setup(
-    name='terrapy',
+    name='terra-py',
     description='generate terraform json',
     version='0.0.0',
     packages=find_packages(),
