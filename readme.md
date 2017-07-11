@@ -6,7 +6,7 @@ wrapper for terraform so you can write hcl as py dicts
 installation
 ------------
 
-not published yet, use this repo
+`pip install terra-py`
 
 usage
 -----
